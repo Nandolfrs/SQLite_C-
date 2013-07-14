@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\bin\Debug\ExemploSQLite.exe
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\bin\Debug\ExemploSQLite.pdb
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.exe
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.pdb
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaCadastro.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaPrincipal.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaEscolhaEditar.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaEscolhaExcluir.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaEditar.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaExibir.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaBusca.resources
+C:\Users\ACER\Documents\Visual Studio 2008\Projects\ExemploBD\ExemploSQLite\obj\Debug\ExemploSQLite.JanelaExibirBusca.resources
